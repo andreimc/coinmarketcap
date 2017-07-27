@@ -1,5 +1,4 @@
 import test from 'tape-promise/tape'
-global.fetch = require('node-fetch')
 import * as coinmarketcap from '../src'
 
 const tickerKeys = [

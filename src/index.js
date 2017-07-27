@@ -1,6 +1,5 @@
 import * as querystring from 'querystring'
-
-/* global fetch */
+var fetch = require('node-fetch');
 
 export async function ticker (opts?: { limit?: number, convert?: string }): Object {
   const query = querystring.stringify(opts)
