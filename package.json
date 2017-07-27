@@ -1,15 +1,16 @@
 {
-  "name": "coinmarketcap",
-  "version": "0.2.0",
-  "description": "",
+  "name": "@linuxmercedes/coinmarketcap",
+  "version": "0.2.1",
+  "description": "CoinMarketCap API",
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/ExodusMovement/coinmarketcap/issues"
+    "url": "https://github.com/LinuxMercedes/coinmarketcap/issues"
   },
   "license": "MIT",
   "author": "The Exodus Movement",
   "contributors": [
-    "Kirill Fomichev <fanatid@ya.ru> (https://github.com/fanatid)"
+    "Kirill Fomichev <fanatid@ya.ru> (https://github.com/fanatid)",
+    "Linux Mercedes <linuxmercedes@gmail.com> (https://github.com/LinuxMercedes)"
   ],
   "files": [
     "lib",
@@ -20,7 +21,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExodusMovement/coinmarketcap.git"
+    "url": "https://github.com/LinuxMercedes/coinmarketcap.git"
   },
   "scripts": {
     "prebuild": "rm -rf lib",

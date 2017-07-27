@@ -1,3 +1,7 @@
+0.2.1 / 2017-07-27
+------------------
+- Scope dependencies to the library itself instead of polluting `global`
+
 0.2.0 / 2017-04-12
 ------------------
 - switch from `blue-tape` to `tape` and `tape-promise`
