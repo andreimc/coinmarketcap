@@ -1,5 +1,5 @@
 {
-  "name": "@linuxmercedes/coinmarketcap",
+  "name": "coinmarketcap-fetch",
   "version": "0.2.1",
   "description": "CoinMarketCap API",
   "keywords": [],
@@ -10,7 +10,8 @@
   "author": "The Exodus Movement",
   "contributors": [
     "Kirill Fomichev <fanatid@ya.ru> (https://github.com/fanatid)",
-    "Linux Mercedes <linuxmercedes@gmail.com> (https://github.com/LinuxMercedes)"
+    "Linux Mercedes <linuxmercedes@gmail.com> (https://github.com/LinuxMercedes)",
+    "Andrei Miulescu <lusu777@gmail.com> (https://github.com/andreimc)"
   ],
   "files": [
     "lib",
